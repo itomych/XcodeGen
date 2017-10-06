@@ -1,0 +1,11 @@
+1. Make "cd" to this folder
+2. Make "sh install.sh" 
+3. Find .liftoff folder in your ~ directory and configure templates (optional)
+4. Find .liftoffrc file in your ~ directory and configure it (optional)
+5. Go to your Project's folder or whatever you want and make "cd" in it
+6. Make "liftoff"  to generate swift project or "liftoff --template objc"
+to generate  objc project.
+
+Done.
+
+For more info visit https://github.com/liftoffcli/liftoff
