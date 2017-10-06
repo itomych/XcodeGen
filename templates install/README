@@ -5,6 +5,7 @@
 5. Go to your Project's folder or whatever you want and make "cd" in it
 6. Make "liftoff"  to generate swift project or "liftoff --template objc"
 to generate  objc project.
+7. Make “sh uninstall.sh” to delete templates
 
 Done.
 
